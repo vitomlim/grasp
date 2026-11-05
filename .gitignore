@@ -1,0 +1,6 @@
+# comment xd
+.env
+.claude
+.venv/
+*.pyc
+__pycache__/
